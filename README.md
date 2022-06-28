@@ -1,6 +1,6 @@
 # Desafio sobre Git/GitHub
 Repositório para o desafio de projeto Git/GitHub - Dio
- - Anoptações
+ - Anotações
  - Comandos Básicos
 
 ## Links Úteis
