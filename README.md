@@ -4,4 +4,5 @@ Repositório para o desafio de projeto Git/GitHub - Dio
  - Comandos Básicos
 
 ## Links Úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+ - [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+ - [jQuery - exemplos javascript](https://jqueryui.com/accordion/)
